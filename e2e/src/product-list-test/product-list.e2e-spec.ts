@@ -1,4 +1,4 @@
-import { ListPage } from './list.po';
+import { ListPage } from './product-list.po';
 import { browser } from 'protractor';
 
 describe('Protractor test demo for list', function () {
